@@ -24,6 +24,7 @@ Foundations of Data Structures &amp; Algorithms
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jyoti-sabane/LeetCode/tree/master/0002-add-two-numbers) |
 | [0061-rotate-list](https://github.com/Jyoti-sabane/LeetCode/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jyoti-sabane/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Jyoti-sabane/LeetCode/tree/master/0206-reverse-linked-list) |
@@ -31,6 +32,7 @@ Foundations of Data Structures &amp; Algorithms
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Jyoti-sabane/LeetCode/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/Jyoti-sabane/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jyoti-sabane/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -43,4 +45,8 @@ Foundations of Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Jyoti-sabane/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Jyoti-sabane/LeetCode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
