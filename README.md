@@ -23,6 +23,7 @@ Foundations of Data Structures &amp; Algorithms
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Jyoti-sabane/LeetCode/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/Jyoti-sabane/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Jyoti-sabane/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -33,6 +34,7 @@ Foundations of Data Structures &amp; Algorithms
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Jyoti-sabane/LeetCode/tree/master/0061-rotate-list) |
 | [0234-palindrome-linked-list](https://github.com/Jyoti-sabane/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
