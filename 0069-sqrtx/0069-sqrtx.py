@@ -19,7 +19,7 @@ class Solution(object):
             if (mid * mid) == x:
                 return mid
 
-            if (mid * mid) < x:
+            if mid * mid < x:
                 ans = mid
                 left = mid + 1
             else:
