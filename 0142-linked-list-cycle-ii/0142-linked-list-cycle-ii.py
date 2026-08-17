@@ -33,9 +33,6 @@ class Solution(object):
             fast=fast.next
             slow=slow.next 
         return slow
-        
-        
-        return False
         """
         :type head: ListNode
         :rtype: ListNode
