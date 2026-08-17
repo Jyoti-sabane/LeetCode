@@ -54,6 +54,7 @@ Foundations of Data Structures &amp; Algorithms
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Jyoti-sabane/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jyoti-sabane/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Jyoti-sabane/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Math
@@ -78,9 +79,11 @@ Foundations of Data Structures &amp; Algorithms
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Jyoti-sabane/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jyoti-sabane/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Jyoti-sabane/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jyoti-sabane/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
