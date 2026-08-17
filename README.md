@@ -60,9 +60,18 @@ Foundations of Data Structures &amp; Algorithms
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jyoti-sabane/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Jyoti-sabane/LeetCode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/Jyoti-sabane/LeetCode/tree/master/0069-sqrtx) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Jyoti-sabane/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Jyoti-sabane/LeetCode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Jyoti-sabane/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
