@@ -22,6 +22,7 @@ Foundations of Data Structures &amp; Algorithms
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jyoti-sabane/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Jyoti-sabane/LeetCode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Jyoti-sabane/LeetCode/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -54,6 +55,7 @@ Foundations of Data Structures &amp; Algorithms
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Jyoti-sabane/LeetCode/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Jyoti-sabane/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jyoti-sabane/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Jyoti-sabane/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -86,4 +88,8 @@ Foundations of Data Structures &amp; Algorithms
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Jyoti-sabane/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Jyoti-sabane/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Jyoti-sabane/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
