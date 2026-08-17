@@ -7,6 +7,7 @@ Foundations of Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Jyoti-sabane/LeetCode/tree/master/0001-two-sum) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Foundations of Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Jyoti-sabane/LeetCode/tree/master/0061-rotate-list) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/Jyoti-sabane/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jyoti-sabane/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
