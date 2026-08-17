@@ -12,6 +12,7 @@ Foundations of Data Structures &amp; Algorithms
 | ------- |
 | [0001-two-sum](https://github.com/Jyoti-sabane/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jyoti-sabane/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Jyoti-sabane/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Jyoti-sabane/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jyoti-sabane/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -19,6 +20,7 @@ Foundations of Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Jyoti-sabane/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Jyoti-sabane/LeetCode/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,6 +57,7 @@ Foundations of Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Jyoti-sabane/LeetCode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Jyoti-sabane/LeetCode/tree/master/0013-roman-to-integer) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
