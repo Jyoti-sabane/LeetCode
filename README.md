@@ -13,6 +13,7 @@ Foundations of Data Structures &amp; Algorithms
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Jyoti-sabane/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Jyoti-sabane/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Jyoti-sabane/LeetCode/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Jyoti-sabane/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -65,6 +66,7 @@ Foundations of Data Structures &amp; Algorithms
 | [0141-linked-list-cycle](https://github.com/Jyoti-sabane/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jyoti-sabane/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Jyoti-sabane/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Jyoti-sabane/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/Jyoti-sabane/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Stack
@@ -83,6 +85,7 @@ Foundations of Data Structures &amp; Algorithms
 | [0002-add-two-numbers](https://github.com/Jyoti-sabane/LeetCode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Jyoti-sabane/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Jyoti-sabane/LeetCode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Jyoti-sabane/LeetCode/tree/master/0189-rotate-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
