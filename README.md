@@ -9,6 +9,7 @@ Foundations of Data Structures &amp; Algorithms
 | [0001-two-sum](https://github.com/Jyoti-sabane/LeetCode/tree/master/0001-two-sum) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0496-next-greater-element-i](https://github.com/Jyoti-sabane/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Foundations of Data Structures &amp; Algorithms
 | [0232-implement-queue-using-stacks](https://github.com/Jyoti-sabane/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Jyoti-sabane/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Jyoti-sabane/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/Jyoti-sabane/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
@@ -106,4 +108,5 @@ Foundations of Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Jyoti-sabane/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
