@@ -34,6 +34,7 @@ Foundations of Data Structures &amp; Algorithms
 | [0013-roman-to-integer](https://github.com/Jyoti-sabane/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Jyoti-sabane/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jyoti-sabane/LeetCode/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Jyoti-sabane/LeetCode/tree/master/0125-valid-palindrome) |
 | [0844-backspace-string-compare](https://github.com/Jyoti-sabane/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
@@ -63,6 +64,7 @@ Foundations of Data Structures &amp; Algorithms
 | [0061-rotate-list](https://github.com/Jyoti-sabane/LeetCode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Jyoti-sabane/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Jyoti-sabane/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Jyoti-sabane/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jyoti-sabane/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
