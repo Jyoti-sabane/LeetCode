@@ -35,6 +35,7 @@ Foundations of Data Structures &amp; Algorithms
 | [0014-longest-common-prefix](https://github.com/Jyoti-sabane/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Jyoti-sabane/LeetCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Jyoti-sabane/LeetCode/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Jyoti-sabane/LeetCode/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Jyoti-sabane/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
@@ -70,6 +71,7 @@ Foundations of Data Structures &amp; Algorithms
 | [0160-intersection-of-two-linked-lists](https://github.com/Jyoti-sabane/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Jyoti-sabane/LeetCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Jyoti-sabane/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/Jyoti-sabane/LeetCode/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Jyoti-sabane/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
@@ -145,4 +147,8 @@ Foundations of Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Jyoti-sabane/LeetCode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Jyoti-sabane/LeetCode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
