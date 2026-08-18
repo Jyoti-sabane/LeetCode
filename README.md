@@ -9,6 +9,7 @@ Foundations of Data Structures &amp; Algorithms
 | [0001-two-sum](https://github.com/Jyoti-sabane/LeetCode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Jyoti-sabane/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Jyoti-sabane/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0496-next-greater-element-i](https://github.com/Jyoti-sabane/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
@@ -54,6 +55,7 @@ Foundations of Data Structures &amp; Algorithms
 | ------- |
 | [0061-rotate-list](https://github.com/Jyoti-sabane/LeetCode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/Jyoti-sabane/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Jyoti-sabane/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Jyoti-sabane/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -115,4 +117,8 @@ Foundations of Data Structures &amp; Algorithms
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Jyoti-sabane/LeetCode/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Jyoti-sabane/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
