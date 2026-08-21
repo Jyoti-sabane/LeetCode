@@ -30,6 +30,7 @@ Foundations of Data Structures &amp; Algorithms
 | [0160-intersection-of-two-linked-lists](https://github.com/Jyoti-sabane/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Jyoti-sabane/LeetCode/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/Jyoti-sabane/LeetCode/tree/master/0496-next-greater-element-i) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Jyoti-sabane/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -41,6 +42,7 @@ Foundations of Data Structures &amp; Algorithms
 | [0151-reverse-words-in-a-string](https://github.com/Jyoti-sabane/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Jyoti-sabane/LeetCode/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Jyoti-sabane/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Jyoti-sabane/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sliding Window
 |  |
 | ------- |
