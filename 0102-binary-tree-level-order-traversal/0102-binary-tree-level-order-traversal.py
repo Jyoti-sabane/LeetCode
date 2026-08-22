@@ -5,19 +5,13 @@
 #         self.left = left
 #         self.right = right
 class Queue:
-    def __init__(self,limit=900000):
+    def __init__(self):
         self._items=[]
-        self._limit=limit
-
-    def is_full(self):
-        return len(self._items)==self._limit
     
     def is_empty(self):
         return len(self._items)==0
 
     def enqueue(self,item):
-        if self.is_full():
-            return "Queque is full."
         self._items.append(item)
     def dequeue(self):
         if self.is_empty():
