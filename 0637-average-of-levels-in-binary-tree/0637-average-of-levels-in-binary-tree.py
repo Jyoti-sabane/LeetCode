@@ -50,8 +50,8 @@ class Solution(object):
                     level.append(front.right.val)
             if len(level)>0:
                 s=sum(level)
-                n=float(len(level))
-                avg=s/n
+                n=len(level)
+                avg=s/floor(n)
                 ans.append(avg)
         return ans
 
