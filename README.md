@@ -19,6 +19,7 @@ Foundations of Data Structures &amp; Algorithms
 | [0189-rotate-array](https://github.com/Jyoti-sabane/LeetCode/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Jyoti-sabane/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0877-stone-game](https://github.com/Jyoti-sabane/LeetCode/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Foundations of Data Structures &amp; Algorithms
 | [0013-roman-to-integer](https://github.com/Jyoti-sabane/LeetCode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/Jyoti-sabane/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Jyoti-sabane/LeetCode/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/Jyoti-sabane/LeetCode/tree/master/0877-stone-game) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -165,6 +167,7 @@ Foundations of Data Structures &amp; Algorithms
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Jyoti-sabane/LeetCode/tree/master/0392-is-subsequence) |
+| [0877-stone-game](https://github.com/Jyoti-sabane/LeetCode/tree/master/0877-stone-game) |
 ## Greedy
 |  |
 | ------- |
@@ -212,4 +215,16 @@ Foundations of Data Structures &amp; Algorithms
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Jyoti-sabane/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Jyoti-sabane/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Jyoti-sabane/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Jyoti-sabane/LeetCode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Jyoti-sabane/LeetCode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Jyoti-sabane/LeetCode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
