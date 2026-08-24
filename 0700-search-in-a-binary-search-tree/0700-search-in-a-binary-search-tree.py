@@ -14,7 +14,7 @@ class Solution(object):
                 curr=curr.right
             else:
                 curr=curr.left
-        return None
+        return curr
         """
         :type root: Optional[TreeNode]
         :type val: int
