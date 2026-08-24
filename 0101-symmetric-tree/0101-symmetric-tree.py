@@ -16,7 +16,6 @@ class Solution(object):
             left.append(root.val)
             preorder(root.left)
             preorder(root.right)
-            print(left)
         def postorder(root):
             if root is None:
                 right.append(None)
@@ -24,7 +23,6 @@ class Solution(object):
             right.append(root.val)
             postorder(root.right)
             postorder(root.left)
-            print(" ",right)
         preorder(root.left)
         postorder(root.right)
 
