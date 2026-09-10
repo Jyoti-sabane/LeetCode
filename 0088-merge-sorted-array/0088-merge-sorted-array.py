@@ -21,10 +21,6 @@ class Solution(object):
             ptr2-=1
             ptr3-=1
 
-    
-
-    
-
 
         """
         :type nums1: List[int]
